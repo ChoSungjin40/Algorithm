@@ -1,5 +1,10 @@
 # Algorithm
+
+Kwangwoon Univercity, Seoul, South Korea
+
 2022.03~06
+
+PDF, lecture material, base code is own Kwangwoon Univ.
 
 # 삽입정렬
 
